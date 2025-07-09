@@ -1,2 +1,5 @@
-# http-error-code-Testcases
-Automated testing of browser response to various HTTP status codes (404, 500, 403, etc.) using Python, Selenium, and requests.
+# http-error-code-Testcases with Selenium
+
+This Python script uses Selenium and the requests library to automate browser testing of various HTTP status codes.
+
+
